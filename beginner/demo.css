@@ -1,0 +1,33 @@
+nav{
+ width: 100%; 
+ background: #ccc; 
+ height: 6rem; 
+}
+
+.background{
+    width: 100%;
+   background: #ccc;
+   height: 20rem;
+   margin-top: 1rem;
+}
+.box_parent{
+margin-top: 1rem;
+display: flex ;
+flex-wrap: wrap;
+gap: 2rem;
+justify-content: center;
+align-items: center;
+}
+
+.box{
+
+    width: 20rem;
+    height: 10rem;
+    background: #ccc;
+}
+footer{
+ width: 100%; 
+ background: #ccc; 
+ height: 6rem;
+ margin-top: 2rem; 
+}
